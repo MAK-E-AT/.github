@@ -1,5 +1,5 @@
 
-## 1. Description (프로젝트에 대한 소개)
+## 1️⃣ Description (프로젝트에 대한 소개)
 - **프로젝트 명**
 - **프로젝트에 대한 간단한 소개**
   - 개발 목적  
@@ -15,14 +15,14 @@
       : 사용자가 업로드한 음식 이미지를 일일/ 주간/ 월간 식단 기록 정보로 저장한 내용을 제공합니다.
       <br></br>
       
-## 2. Project 관리 방법
+## 2️⃣ Project 관리 방법
 - [Notion_MAK-E-AT](https://gifted-antler-fe6.notion.site/MAK-E-AT-7f61599c851247a7ab4b3c1c21034295) 간단하게 요약  
 - Branch를 활용한 협업(discussion 링크 첨부)  
   ⇒ [readme.md_참고1](https://github.com/f-lab-edu/running-mate) , [readme.md_참고2](https://github.com/f-lab-edu/food-delivery) 참조해서 기능별 브랜치 역할 & 협업 과정에 대한 간단한 설명 
 - ~~[디렉토리 구조](https://velog.io/@_uchanlee/네-만들어-드렸습니다) (파일 구조 - 레포지토리 구성에 대한 설명)~~
 <br></br>
 
-## 3. Features (사용 프로그램, 라이브러리 등 환경설정 소개)  
+## 3️⃣ Features (사용 프로그램, 라이브러리 등 환경설정 소개)  
 ⇒ 여러분의 도움 필요,,[Ex]처럼 사용 프로그램마다 기능 구현 구분 표기 가능한지 / 비효율적인 구분인지 판단 필요
 - 사용된 인공지능 모델 및 프로그램 : 주요 기능 구현 과정에서 사용된 프로그램을 간단하게 표기  
 [Ex]  
@@ -36,25 +36,26 @@
 
 ...
 <br></br>
-## 4. Prototype (User-Flow)
+
+## 4️⃣ Prototype (User-Flow)
 (Adobe XD 화면구성 이미지로 첨부)
 <br></br>
 
-## 5. Start using MAK-E-AT
+## 5️⃣ Start using MAK-E-AT
 - 설치 경로 (이동 링크 제공)
 - 간단한 사용 방법 설명  
   ⇒ 첨부한 Prototype에 기반한 전체적인 앱 사용 흐름을 간단하게 설명 
   <br></br>
   
-## 6. Contributors (팀 멤버 소개)
+## 6️⃣ Contributors (팀 멤버 소개)
 ![팀 멤버](https://raw.githubusercontent.com/mgechev/github-contributors-list/master/assets/demo.png)
 <br></br>
 
-## 7. License
+## 7️⃣ License
 - 저작물의 수정, 배포에 대한 권한이나 저작권에 대한 조항 표기
 <br></br>
 
-## 8. References
+## 8️⃣ References
 - (외부 리소스 정보) 개발에 사용된 참고 코드 출처 표기
 <br></br>
 
