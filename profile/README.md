@@ -22,40 +22,33 @@
 - ~~[디렉토리 구조](https://velog.io/@_uchanlee/네-만들어-드렸습니다) (파일 구조 - 레포지토리 구성에 대한 설명)~~
 <br></br>
 
-## 3️⃣ Features (사용 프로그램, 라이브러리 등 환경설정 소개)  
-⇒ 여러분의 도움 필요,,[Ex]처럼 사용 프로그램마다 기능 구현 구분 표기 가능한지 / 비효율적인 구분인지 판단 필요
+## 3️⃣ Features (사용 프로그램, 라이브러리 등 환경설정 소개) + 7️⃣과 병합
+⇒ 멤버별로 구분, 기능 구현시 사용한 프로그램& 라이브러리 등 정리 필요!
 - 사용된 인공지능 모델 및 프로그램 : 주요 기능 구현 과정에서 사용된 프로그램을 간단하게 표기  
-[Ex]  
->`yolov5s` : 음식 이미지 인식,,  
-
->`flask` : 영양성분 분석 결과 반환 및,,  
-`flutter` : UI구현 및,,
-
->`spring web` :  
-`maria DB` :  
-
-...
 <br></br>
 
-## 4️⃣ Prototype (User-Flow)
+## 4️⃣ Storyboard
 (Adobe XD 화면구성 이미지로 첨부)
 <br></br>
 
-## 5️⃣ Start using MAK-E-AT
+## 5️⃣ Prototype
+<br></br>
+
+## 6️⃣ Start using MAK-E-AT
 - 설치 경로 (이동 링크 제공)
 - 간단한 사용 방법 설명  
   ⇒ 첨부한 Prototype에 기반한 전체적인 앱 사용 흐름을 간단하게 설명 
   <br></br>
   
-## 6️⃣ Contributors (팀 멤버 소개)
+## 7️⃣ Contributors (팀 멤버 소개)
 ![팀 멤버](https://raw.githubusercontent.com/mgechev/github-contributors-list/master/assets/demo.png)
 <br></br>
 
-## 7️⃣ License
+## 8️⃣ License
 - 저작물의 수정, 배포에 대한 권한이나 저작권에 대한 조항 표기
 <br></br>
 
-## 8️⃣ References
+## 9️⃣ References
 - (외부 리소스 정보) 개발에 사용된 참고 코드 출처 표기
 <br></br>
 
