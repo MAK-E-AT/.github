@@ -44,6 +44,7 @@
 > - **feature** : 개발이 필요한 기능들을 구분해 놓은 브랜치
 
 👀 Branch를 활용한 협업 방법에 대한 자세한 설명은 [Discussion_Branch](https://gifted-antler-fe6.notion.site/MAK-E-AT-7f61599c851247a7ab4b3c1c21034295) 를 참고해주세요!
+
 <br></br>
 
 
