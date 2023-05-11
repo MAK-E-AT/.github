@@ -47,9 +47,25 @@
 <br></br>
 
 
-## 3️⃣ Features (사용 프로그램, 라이브러리 등 환경설정 소개) + 7️⃣과 병합
+## 🙋 Who made MAK-E-AT
 ⇒ 멤버별로 구분, 기능 구현시 사용한 프로그램& 라이브러리 등 정리 필요!
 - 사용된 인공지능 모델 및 프로그램 : 주요 기능 구현 과정에서 사용된 프로그램을 간단하게 표기  
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt="Hyeonho_Shin"/><br /><sub><b>Hyeonho_Shin</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+      <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt="Sungmin_Ha"/><br /><sub><b>Sungmin_Ha</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+      <td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Eunjung_Lee"/><br /><sub><b>Eunjung_Lee</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajakebolam" title="Reviewed Pull Requests">👀</a> <a href="#question-jakebolam" title="Answering Questions">💬</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://robertlluberes.com"><img src="https://avatars1.githubusercontent.com/u/13991439?v=4?s=100" width="100px;" alt="Seonghyeon_Lee"/><br /><sub><b>Seonghyeon_Lee</b></sub></a><br /><a href="#translation-robertlluberes" title="Translation">🌍</a></td>
+      <td align="center"><a href="https://jongjineee.github.io"><img src="https://avatars2.githubusercontent.com/u/26620470?v=4?s=100" width="100px;" alt="Jaegyeong_Han"/><br /><sub><b>Jaegyeong_Han</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jongjineee" title="Documentation">📖</a> <a href="#translation-Jongjineee" title="Translation">🌍</a></td>
+      <td align="center"><a href="http://marsx.vip"><img src="https://avatars2.githubusercontent.com/u/21303543?v=4?s=100" width="100px;" alt="Jaehyeong_Park"/><br /><sub><b>Jaehyeong_Park</b></sub></a><br /><a href="#translation-MarsXue" title="Translation">🌍</a></td>
+    </tr>
+
+  </tbody>
+</table>
 <br></br>
 
 ## 4️⃣ Storyboard
@@ -64,10 +80,6 @@
 - 간단한 사용 방법 설명  
   ⇒ 첨부한 Prototype에 기반한 전체적인 앱 사용 흐름을 간단하게 설명 
   <br></br>
-  
-## 7️⃣ Contributors (팀 멤버 소개)
-![팀 멤버](https://raw.githubusercontent.com/mgechev/github-contributors-list/master/assets/demo.png)
-<br></br>
 
 ## 8️⃣ License
 - 저작물의 수정, 배포에 대한 권한이나 저작권에 대한 조항 표기
