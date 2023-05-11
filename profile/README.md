@@ -23,13 +23,23 @@
 4️⃣ 식단 정보 기록 기능
  ➜ 사용자가 업로드한 음식 이미지를 일일/ 주간/ 월간 식단 기록 정보로 저장한 내용을 제공합니다.
 ```
-      
-## 2️⃣ Project 관리 방법
-- [Notion_MAK-E-AT](https://gifted-antler-fe6.notion.site/MAK-E-AT-7f61599c851247a7ab4b3c1c21034295) 간단하게 요약  
-- Branch를 활용한 협업(discussion 링크 첨부)  
-  ⇒ [readme.md_참고1](https://github.com/f-lab-edu/running-mate) , [readme.md_참고2](https://github.com/f-lab-edu/food-delivery) 참조해서 기능별 브랜치 역할 & 협업 과정에 대한 간단한 설명 
-- ~~[디렉토리 구조](https://velog.io/@_uchanlee/네-만들어-드렸습니다) (파일 구조 - 레포지토리 구성에 대한 설명)~~
 <br></br>
+## 🗓️ How to manage MAK-E-AT
+  ⏱️ **Agile**
+  
+기존의 `요구사항 분석` 🔜 `기획` 🔜 `디자인` 🔜 `개발` 🔜 `테스트` 🔜 `출시` 의 순서대로 한번에 프로젝트를 진행하는 방식을 개선(프로젝트가 진행되면 수정이 어려움)한 방법인 Agile로 프로젝트 관리를 진행했습니다.
+
+✅ 기능 단위의 prototype을 기반으로 프로젝트를 진행
+
+✅ 실행 방법 : `Scrum`과 `Kanban` 방식을 결합 
+  > - `Scrum` : __개발 주기인 sprint__ 를 설정하고, 그 일정에 맞춰 개발을 진행 ➜ 해당 sprint 기간 내에 할당된 기능 개발이 완료돼야 함_종료일 iteration이 정해져 있음
+  > - `Kanban` : sprint 기간 없이, __일의 진행을 진행사항에 따라 나누고__ 작업흐름을 확인하며 진행
+  > `NEW` ➜ `Backlog` ➜ `Todo` ➜ `In Progress` ➜ `In Review` ➜ `Done`
+ 
+  - Branch를 활용한 협업(discussion 링크 첨부)  
+  ⇒ [readme.md_참고1](https://github.com/f-lab-edu/running-mate) , [readme.md_참고2](https://github.com/f-lab-edu/food-delivery) 참조해서 기능별 브랜치 역할 & 협업 과정에 대한 간단한 설명 
+<br></br>
+
 
 ## 3️⃣ Features (사용 프로그램, 라이브러리 등 환경설정 소개) + 7️⃣과 병합
 ⇒ 멤버별로 구분, 기능 구현시 사용한 프로그램& 라이브러리 등 정리 필요!
