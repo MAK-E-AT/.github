@@ -35,6 +35,10 @@
 ## 🗓️ How to manage MAK-E-AT
   ⏱️ **Agile**
   
+<p align="center">
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/d6c2bec8-9737-4625-8ef3-98a368a9d674" width="800" height="400">
+</p>
+  
 기존의 `요구사항 분석` ➜ `기획` ➜ `디자인` ➜ `개발` ➜ `테스트` ➜ `출시` 의 순서대로 한번에 프로젝트를 진행하는 방식을 개선(프로젝트가 진행되면 수정이 어려움)한 방법인 Agile로 프로젝트 관리를 진행했습니다.
 
 ✅ 기능 단위의 prototype을 기반으로 프로젝트를 진행
