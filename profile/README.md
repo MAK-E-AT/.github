@@ -2,9 +2,9 @@
 ## 🧐 What is MAK-E-AT⁉️
 
 <p align="center">
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c4aed005-d8f0-4d80-8bc1-e7880a596f22" width="200" height="400" hspace="50"> 
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c334ab57-22f8-49ce-924b-bf74d494f08d" width="200" height="400" hspace="50">
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/37765748-9513-45d5-b50c-6cff2baae6c5" width="200" height="400" hspace="50">
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c4aed005-d8f0-4d80-8bc1-e7880a596f22" width="200" height="400" hspace="30"> 
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c334ab57-22f8-49ce-924b-bf74d494f08d" width="200" height="400" hspace="30">
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/37765748-9513-45d5-b50c-6cff2baae6c5" width="200" height="400" hspace="30">
 </p>
 
 <div style="clear: both;"></div> 
