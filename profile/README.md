@@ -67,10 +67,8 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/hardy716"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="200px;" alt="Hyeonho_Shin"/><br /><sub><b>Hyeonho_Shin</b></sub></a><br /> <a href="https://github.com/hardy716">🧑🏻‍💻</a> <a href="https://github.com/hardy716/hardy716.github.io" title="Documentation">📖</a> <a href="https://www.linkedin.com/in/devhardy/">📞</a></td>
-      
+      <td align="center"><a href="https://github.com/hardy716"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="200px;" alt="Hyeonho_Shin"/><br /><sub><b>Hyeonho_Shin</b></sub></a><br /> <a href="https://github.com/hardy716">🧑🏻‍💻</a> <a href="https://github.com/hardy716/hardy716.github.io" title="Documentation">📖</a> <a href="https://www.linkedin.com/in/devhardy/">📞</a></td> 
       <td align="center"><a href="https://github.com/xman227"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="200px;" alt="Sungmin_Ha"/><br /><sub><b>Sungmin_Ha</b></sub></a><br /> <a href="https://github.com/xman227">🧑🏻‍💻</a> <a href="https://m.blog.naver.com/bulkup-star_maybe" title="Documentation">📖</a> <a href=" ">📞</a></td>
-      
       <td align="center"><a href="https://github.com/eunjung0301"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4?s=100" width="200px;" alt="Eunjung_Lee"/><br /><sub><b>Eunjung_Lee</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajakebolam" title="Reviewed Pull Requests">👀</a> <a href="#question-jakebolam" title="Answering Questions">💬</a></td>
     </tr>
     <tr>
