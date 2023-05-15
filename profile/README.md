@@ -1,15 +1,14 @@
 
 ## 🧐 What is MAK-E-AT⁉️
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c4aed005-d8f0-4d80-8bc1-e7880a596f22" width="200" height="400">
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c334ab57-22f8-49ce-924b-bf74d494f08d" width="200" height="400">
-  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/37765748-9513-45d5-b50c-6cff2baae6c5" width="200" height="400">
-</div>
+<p align="center">
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c4aed005-d8f0-4d80-8bc1-e7880a596f22" width="200" height="400" hspace="50"> 
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/c334ab57-22f8-49ce-924b-bf74d494f08d" width="200" height="400" hspace="50">
+  <img src="https://github.com/MAK-E-AT/.github/assets/102943250/37765748-9513-45d5-b50c-6cff2baae6c5" width="200" height="400" hspace="50">
+</p>
 
 <div style="clear: both;"></div> 
 <br></br> 
-**(이미지 간격 조절 할꺼에요!)**
 
   🍴“Makeat” 프로젝트는, 인공지능 기술을 활용해 사용자가 섭취하게 될 음식의 영양성분과 칼로리를 분석하고, 목적에 따라 조절 가능하도록 돕기 위해 진행되었습니다.
   <br></br>
