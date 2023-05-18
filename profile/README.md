@@ -81,9 +81,27 @@
           <sub><b>Hyeonho_Shin</b></sub>
         </a>
         <br /> 
-        <a href="https://github.com/hardy716">🧑🏻‍💻</a> 
-        <a href="https://hardy716.github.io" title="Documentation">📖</a> 
-        <a href="mailto:dev.hardy716@gmail.com">✉️</a>
+        <a href="https://github.com/hardy716">
+          <img 
+               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/43cb7344-e4f3-469d-8fc6-3587be22c1ad"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="https://hardy716.github.io" title="Documentation">
+          <img 
+               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/3e2fc917-34d7-49ed-a811-dc804c379de8"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto:dev.hardy716@gmail.com">
+          <img 
+               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/6d40683c-93a0-40c0-a383-1365b4c22f2c"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
       </td>
       <td align="center"><a href="https://github.com/xman227"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Sungmin_Ha"/><br /><sub><b>Sungmin_Ha</b></sub></a><br /> <a href="https://github.com/xman227">🧑🏻‍💻</a> <a href="https://m.blog.naver.com/bulkup-star_maybe" title="Documentation">📖</a> <a href=" ">📞</a></td>
       <td align="center"><a href="https://github.com/eunjung0301"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Eunjung_Lee"/><br /><sub><b>Eunjung_Lee</b></sub></a><br /> <a href="https://github.com/eunjung0301">👩🏻‍💻</a> <a href="https://deadpan-map-562.notion.site/Welcome-to-notion_LEE-EUNJUNG-251367bb154e4a33a464a7e022e78a1c">📖</a> <a href=" ">📞</a></td>
