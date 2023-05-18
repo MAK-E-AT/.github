@@ -78,8 +78,8 @@
                alt="Hyeonho_Shin"
            />
           <br />
-          <sub><b>Hyeonho_Shin</b></sub>
         </a>
+        <sub><b>Hyeonho_Shin</b></sub>
         <br /> 
         <a href="https://github.com/hardy716">
           <img 
