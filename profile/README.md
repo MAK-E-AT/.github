@@ -83,9 +83,10 @@
         <br /> 
         <a href="https://github.com/hardy716">
           <img 
-               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/43cb7344-e4f3-469d-8fc6-3587be22c1ad"    
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
                width="24px;"
                height="24px;"
+               onclick="null"
            />
         </a> 
         <a href="https://hardy716.github.io" title="Documentation">
