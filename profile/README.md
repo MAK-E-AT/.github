@@ -91,14 +91,14 @@
         </a> 
         <a href="https://hardy716.github.io" title="Documentation">
           <img 
-               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/3e2fc917-34d7-49ed-a811-dc804c379de8"    
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
                width="24px;"
                height="24px;"
            />
         </a> 
         <a href="mailto:dev.hardy716@gmail.com">
           <img 
-               src="https://github.com/MAK-E-AT/Frontend/assets/101140679/6d40683c-93a0-40c0-a383-1365b4c22f2c"    
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
                width="24px;"
                height="24px;"
            />
