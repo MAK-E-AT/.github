@@ -106,10 +106,9 @@
       </td>
       <--!성민-->
       <td align="center">
-        <a href="https://github.com/xman227">
-          <a href="https://github.com/hyeong0917">
-          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/31512002-4240-4773-8c85-a2cad27abc44" 
-               width="150px;"
+            <a href="https://github.com/xman227">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/ab1cea70-5b3c-4daf-b244-4f0c78f3e86a" 
+               width=" " 
                height="150px;"
                alt="Sungmin_Ha"/>
         </a>
@@ -141,8 +140,11 @@
       </td>
       <!-- 은정 -->
       <td align="center">
-        <a href="https://github.com/hyeong0917">
-          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+        <a href="https://github.com/eunjung0301">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/ba045935-9c9a-4a4c-8e50-677ee1428511"
+                width="150px;"
+               height="150px;"
+               alt="Eunjung_Lee"/>
         </a>
         <br />
         <sub><b>Eunjung_Lee</b></sub>
@@ -176,7 +178,6 @@
     <tr>
             <td align="center">
         <a href="https://github.com/cookie0010">
-          <a href="https://github.com/hyeong0917">
           <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
         </a>
         <br />
@@ -208,7 +209,6 @@
       <!-- 재경 -->
            <td align="center">
         <a href="https://github.com/hanjaegyeong">
-          <a href="https://github.com/hyeong0917">
           <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
         </a>
         <br />
