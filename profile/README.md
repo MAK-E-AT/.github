@@ -108,7 +108,10 @@
       <td align="center">
         <a href="https://github.com/xman227">
           <a href="https://github.com/hyeong0917">
-          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/31512002-4240-4773-8c85-a2cad27abc44" 
+               width="150px;"
+               height="150px;"
+               alt="Sungmin_Ha"/>
         </a>
         <br />
         <sub><b>Sungmin_Ha</b></sub>
