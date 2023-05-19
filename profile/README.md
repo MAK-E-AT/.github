@@ -104,15 +104,167 @@
            />
         </a>
       </td>
-      <td align="center"><a href="https://github.com/xman227"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Sungmin_Ha"/><br /><sub><b>Sungmin_Ha</b></sub></a><br /> <a href="https://github.com/xman227">🧑🏻‍💻</a> <a href="https://blog.naver.com/bulkup-star_maybe" title="Documentation">📖</a> <a href=" mailto:dev.woodspace7@gmail.com">Ⓜ️</a></td>
-      <td align="center"><a href="https://github.com/eunjung0301"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Eunjung_Lee"/><br /><sub><b>Eunjung_Lee</b></sub></a><br /> <a href="https://github.com/eunjung0301">👩🏻‍💻</a> <a href="https://deadpan-map-562.notion.site/Welcome-to-notion_LEE-EUNJUNG-251367bb154e4a33a464a7e022e78a1c">📖</a> <a href=" ">📞</a></td>
+      <--!성민-->
+      <td align="center">
+        <a href="https://github.com/xman227">
+          <a href="https://github.com/hyeong0917">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+        </a>
+        <br />
+        <sub><b>Sungmin_Ha</b></sub>
+        <br /> 
+        <a href="https://github.com/xman227">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
+               width="24px;"
+               height="24px;"
+               onclick="null"
+           />
+        </a> 
+        <a href="https://blog.naver.com/bulkup-star_maybe" title="Documentation">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto:dev.woodspace7@gmail.com">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
+      </td>
+      <!-- 은정 -->
+      <td align="center">
+        <a href="https://github.com/hyeong0917">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+        </a>
+        <br />
+        <sub><b>Eunjung_Lee</b></sub>
+        <br /> 
+        <a href="https://github.com/eunjung0301">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
+               width="24px;"
+               height="24px;"
+               onclick="null"
+           />
+        </a> 
+        <a href="https://deadpan-map-562.notion.site/Welcome-to-notion_LEE-EUNJUNG-251367bb154e4a33a464a7e022e78a1c" title="Documentation">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto:english0301@naver.com">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
+      </td>
     </tr>
+    <!--백엔드 팀-->
+    <!-- 승현 -->
     <tr>
-      <td align="center"><a href="https://github.com/cookie0010"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Seonghyeon_Lee"/><br /><sub><b>Seonghyeon_Lee</b></sub></a><br /><a href="https://github.com/cookie0010">🧑🏻‍💻</a> <a href="https://cookie0010.tistory.com/2">📖</a> <a href=" ">📞</a></td>
-      <td align="center"><a href="https://github.com/hanjaegyeong"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Jaegyeong_Han"/><br /><sub><b>Jaegyeong_Han</b></sub></a><br /><a href="https://github.com/hanjaegyeong">👩🏻‍💻</a> <a href=" ">📖</a> <a href=" ">📞</a></td>
-      <td align="center"><a href="https://github.com/hyeong0917"><img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Jaehyeong_Park"/><br /><sub><b>Jaehyeong_Park</b></sub></a><br /><a href="https://github.com/hyeong0917">🧑🏻‍💻</a> <a href=" ">📖</a> <a href=" ">📞</a></td>
-    </tr>
-
+            <td align="center">
+        <a href="https://github.com/cookie0010">
+          <a href="https://github.com/hyeong0917">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+        </a>
+        <br />
+        <sub><b>Seonghyeon_Lee</b></sub>
+        <br /> 
+        <a href="https://github.com/cookie0010">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
+               width="24px;"
+               height="24px;"
+               onclick="null"
+           />
+        </a> 
+        <a href="https://jmcsoft.tistory.com/2" title="Documentation">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto:">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
+      </td>
+      <!-- 재경 -->
+           <td align="center">
+        <a href="https://github.com/hanjaegyeong">
+          <a href="https://github.com/hyeong0917">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt=" "/>
+        </a>
+        <br />
+        <sub><b>Jaegyeong_Han</b></sub>
+        <br /> 
+        <a href="https://github.com/hanjaegyeong">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
+               width="24px;"
+               height="24px;"
+               onclick="null"
+           />
+        </a> 
+        <a href=" " title="Documentation">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto: ">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
+      </td>
+      <!-- 재형 -->
+      <td align="center">
+        <a href="https://github.com/hyeong0917">
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/46a95518-c039-47b2-bfdb-cb79bd4f5a1f" width="200px;" alt="Jaehyeong_Park"/>
+        </a>
+        <br />
+        <sub><b>Jaehyeong_Park</b></sub>
+        <br /> 
+        <a href="https://github.com/hyeong0917">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117067-43cb7344-e4f3-469d-8fc6-3587be22c1ad.png"    
+               width="24px;"
+               height="24px;"
+               onclick="null"
+           />
+        </a> 
+        <a href=" " title="Documentation">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239116990-3e2fc917-34d7-49ed-a811-dc804c379de8.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a> 
+        <a href="mailto: ">
+          <img 
+               src="https://github-production-user-asset-6210df.s3.amazonaws.com/101140679/239117133-6d40683c-93a0-40c0-a383-1365b4c22f2c.png"    
+               width="24px;"
+               height="24px;"
+           />
+        </a>
+      </td>
   </tbody>
 </table>
 <br></br>
