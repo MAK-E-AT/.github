@@ -107,8 +107,8 @@
       <!-- 성민 -->
       <td align="center">
             <a href="https://github.com/xman227">
-          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/ab1cea70-5b3c-4daf-b244-4f0c78f3e86a" 
-               width=" " 
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/0dd1a45c-0a55-4dfd-9fdf-c56d08ad5d78" 
+               width="150" 
                height="150px;"
                alt="Sungmin_Ha"/>
         </a>
