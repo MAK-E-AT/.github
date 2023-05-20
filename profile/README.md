@@ -141,8 +141,8 @@
       <!-- 은정 -->
       <td align="center">
         <a href="https://github.com/eunjung0301">
-          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/ba045935-9c9a-4a4c-8e50-677ee1428511"
-                width="150px;"
+          <img src="https://github.com/MAK-E-AT/.github/assets/102943250/de2a8f36-c998-43e0-86f3-80a30f34df33"
+               width="150px;"
                height="150px;"
                alt="Eunjung_Lee"/>
         </a>
